@@ -15,8 +15,8 @@ hit 'Block Element' on the context menu that pops up, and paste the rule in.
 
 ### 'Discover more' under tweets
 
-`##[data-testid=cellInnerDiv]:has(h2:has-text(Discover more))`
-`##[data-testid=cellInnerDiv]:has(h2:has-text(Discover more)) ~ *`
+1. `##[data-testid=cellInnerDiv]:has(h2:has-text(Discover more))`
+2. `##[data-testid=cellInnerDiv]:has(h2:has-text(Discover more)) ~ *`
 
 [Screenshot](./images/twitter-discover-more.png)
 
