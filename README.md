@@ -46,8 +46,8 @@ hit 'Block Element' on the context menu that pops up, and paste the rule in.
 
 ### Links to w3schools
 
-`###search > div > div > div:has(a[href*=".sqlitetutorial.net/"])`
-`###search > div > div > div:has(a[href*=".w3schools.com/"])`
+1. `###search > div > div > div:has(a[href*=".sqlitetutorial.net/"])`
+2. `###search > div > div > div:has(a[href*=".w3schools.com/"])`
 
 ## YouTube
 
