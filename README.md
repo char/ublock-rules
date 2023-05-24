@@ -36,6 +36,10 @@ hit 'Block Element' on the context menu that pops up, and paste the rule in.
 
 `##article[data-testid=tweet]:has(span:has-text(/^Quote Tweet$/)):has(div[role=link]:has-text(/@?j[. ]*k[ _\-.]*rowling/i))`
 
+### Sidebar widget: "Spaces"
+
+`##[data-testid="sidebarColumn"] h2:has-text(Listen live in Spaces):upward(2)`
+
 ## SoundCloud
 
 ### Home screen insights widget
