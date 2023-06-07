@@ -20,15 +20,9 @@ hit 'Block Element' on the context menu that pops up, and paste the rule in.
 
 [Screenshot](./images/twitter-discover-more.png)
 
-### Twitter Blue button
+### Twitter 'Verified' button
 
-`##nav > a[href="/i/twitter_blue_sign_up"]`
-
-[Screenshot](./images/twitter-blue.png)
-
-### Twitter "Verified Orgs"
-
-`##[data-testid=Dropdown] div:has(> a[href="/i/verified-orgs-signup"])`
+`##nav > a[href="/i/verified-choose"]`
 
 [Screenshot](./images/twitter-verified-orgs.png)
 
